@@ -19,6 +19,6 @@ find_package_handle_standard_args(WaylandProtocols
 )
 
 set(WAYLAND_PROTOCOLS_FOUND ${WaylandProtocols_FOUND})
-set(WAYLAND_PROTOCOLS_PKGDATADIR ${WaylandProtocols_PKGDATADIR})
+# set(WAYLAND_PROTOCOLS_PKGDATADIR ${WaylandProtocols_PKGDATADIR})
 set(WAYLAND_PROTOCOLS_VERSION ${WaylandProtocols_VERSION})
 
